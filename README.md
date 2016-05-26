@@ -5,7 +5,7 @@ SETTING UP/ COMPILING SASS FILES
 
 
 ##### TO COMPILE A SASS FILE AND QUICKLY CHANGE COLOR SCHEME, 
-
+ 
 ```javascript 
 gem install sass; sudo gem install sass; sass --watch materialize.scss:materialize.css 
 ```
