@@ -1,7 +1,7 @@
 SETTING UP/ COMPILING SASS FILES
 ===================
  
-##### Run an "npm install" to get the latest dependencies!!
+##### Run an "npm install" to get the latest dependencies! ! 
  
 
 ##### TO COMPILE A SASS FILE AND QUICKLY CHANGE COLOR SCHEME, 
